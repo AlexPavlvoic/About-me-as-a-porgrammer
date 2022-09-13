@@ -5,7 +5,6 @@
   color: black;
   padding: 1px;
   border-radius: 25px;
-  animation: blink is linear infinite;
 }
 
 .btn:hover {
